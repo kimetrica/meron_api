@@ -6,6 +6,6 @@ imutils==0.5.4
 joblib==1.0.1
 keras_vggface==0.6
 opencv-contrib-python-headless==4.5.1.48
-Pillow==8.1.2
+Pillow==8.2.0
 scikit-learn==0.24.1
 whitenoise==5.2.0
