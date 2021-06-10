@@ -1,4 +1,4 @@
-Django==2.2.19
+Django==2.2.24
 django-environ==0.4.5
 djangorestframework==3.9.4
 dlib==19.21.1
